@@ -55,9 +55,10 @@ The cli is executed via the command line and requires two essential arguments fo
 To run the cli, you would use a command similar to the following:
 
 ```
-aabfuck.exe -i input.apk -o ouput.aab
+aabfuck.exe -i input.apk -o output.aab
 ```
 
 ### Troubleshooting and Version Compatibility
 
 It is crucial to use the recommended tool versions to avoid potential errors. Using different versions, especially for a key tool like `bundletool`, can lead to unexpected errors or a failed conversion process.
+
